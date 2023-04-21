@@ -4,7 +4,9 @@ Owned by: Cold
 
 Owner's Group: https://www.roblox.com/groups/15437616/
 
-Owner's Discord: cold#1347 https://discord.gg/a6dngApcZz
+Owner's Discord Server: https://discord.gg/a6dngApcZz
+
+Owner's Discord: cold#1347 
 
 Programmed by: ERROR404
 
