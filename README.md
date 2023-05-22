@@ -8,7 +8,7 @@ Owner's Discord Server: https://discord.gg/a6dngApcZz
 
 Owner's Discord: cold#1347 
 
-Programmed by: ERROR404
+Programmed by: null
 
 Programmer's Github: https://github.com/Error404-1 
 
