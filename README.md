@@ -8,8 +8,6 @@ Owner's Discord Server: https://discord.gg/a6dngApcZz
 
 Owner's Discord: cold#1347 
 
-Programmed by: null
+Programmed by: Error404
 
-Programmer's Github: https://github.com/Error404-1 
-
-Programmer's Roblox Profile: https://www.roblox.com/users/523547723
+Programmer's Github: https://github.com/Error404-1
