@@ -1,9 +1,12 @@
 Cold Studios Website
+Group: https://www.roblox.com/groups/15437616/
 
-Owned by: Cold
+Group owned by: Cold
+Their Roblox: https://www.roblox.com/users/3688762217/profile
 
-Owner's Group: https://www.roblox.com/groups/15437616/
+-------------------------------------------------
 
-Programmed by: Error404
+Programmed, maintained, and designed by: Error404-1
 
-Programmer's Github: https://github.com/Error404-1
+Their GitHub: https://github.com/Error404-1
+Their Roblox https://www.roblox.com/users/523547723/profile
