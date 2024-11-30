@@ -6,7 +6,7 @@ Their Roblox: https://www.roblox.com/users/3688762217/profile
 
 -------------------------------------------------
 
-Programmed, maintained, and designed by: Error404-1
+Programmed, maintained, and designed by: MistedWafflez
 
-Their GitHub: https://github.com/Error404-1
-Their Roblox https://www.roblox.com/users/523547723/profile
+Their GitHub: https://github.com/MistedWafflez
+Their Roblox: https://www.roblox.com/users/523547723/profile
